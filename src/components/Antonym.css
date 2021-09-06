@@ -1,0 +1,29 @@
+.Antonym span {
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.Antonym ul {
+  padding: 2px 20px;
+}
+
+.Antonym li {
+  padding: 2px 6px 4px;
+  line-height: 20px;
+  list-style: none;
+  display: inline-block;
+  margin: 2px;
+  border: 1px solid #2f89fc;
+  background-color: #2f89fc;
+  border-radius: 5rem;
+  font-size: 14px;
+}
+
+.Antonym li:hover {
+  background-color: #0e153a;
+  border: 1px solid #0e153a;
+}
+
+.Antonym li a {
+  color: #fff;
+}

@@ -1,0 +1,26 @@
+.Definition {
+  margin-bottom: 3rem;
+}
+
+.Definition .example {
+  color: #0e153a;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.Definition .example::before {
+  content: "'";
+}
+
+.Definition .example::after {
+  content: "'";
+}
+
+.Definition .title p {
+  font-weight: 400;
+}
+
+.Definition .title span {
+  text-decoration: underline;
+  font-weight: 500;
+}
