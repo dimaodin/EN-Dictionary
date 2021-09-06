@@ -57,11 +57,11 @@ Please type the correct word in ${language.language} 😮`
     search(e.target.innerHTML);
   }
 
-  let lists = ["inspiration", "love", "happy", "traveling", "sunrise"];
+  let lists = ["motivation", "heart", "joy", "view", "moon"];
 
   let form = (
     <section>
-      <p>What word do you want to look up?</p>
+      <p>What word do you want to find? 🔍</p>
       <form onSubmit={handleSubmit}>
         <div className="input-group">
           <input

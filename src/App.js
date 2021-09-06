@@ -10,7 +10,7 @@ function App() {
         <header>
           <a href="/">
             <img src={logo} alt="dictioanary-logo" className="logo" />
-            <h1>📖 EN Dictionary 📖</h1>
+            <h1>EN Dictionary 📖</h1>
           </a>
         </header>
         <main>
