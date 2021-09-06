@@ -67,7 +67,7 @@ Please type the correct word in ${language.language} 😮`
           <input
             type="search"
             name="search"
-            placeholder="Search for a word!"
+            placeholder=""
             defaultValue={keyword}
             onChange={handleKeyword}
           />
