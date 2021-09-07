@@ -5,7 +5,7 @@
 
 <br>
 
-#[:rocket: Preview](https://en-dictionary.vercel.app/)
+# [:rocket: Preview :rocket:](https://en-dictionary.vercel.app/)
 
 <br>
 
