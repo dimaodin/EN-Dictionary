@@ -5,7 +5,7 @@
 
 <br>
 
-### [:rocket: Preview :rocket:](https://en-dictionary.vercel.app/)
+### [:rocket: View it live :rocket:](https://en-dictionary.vercel.app/)
 
 <br>
 
