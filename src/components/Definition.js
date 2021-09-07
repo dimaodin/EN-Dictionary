@@ -6,6 +6,7 @@ import "./Definition.css";
 export default function Definition(props) {
   return (
     <div className="Definition">
+      <hr class="divider"></hr>
       <div className="title"><p><span>Defenition:</span> {props.definition.definition}</p></div>
       <div>
         <em className="example">{props.definition.example}</em>

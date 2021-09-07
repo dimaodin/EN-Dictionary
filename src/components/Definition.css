@@ -1,5 +1,11 @@
-.Definition {
-  margin-bottom: 3rem;
+.Definition{
+  margin-bottom: 1rem;
+}
+
+
+hr.divider {
+  border-top: 3px solid #bbb;
+  border-radius: 5px;
 }
 
 .Definition .example {
