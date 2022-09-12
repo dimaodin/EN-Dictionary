@@ -54,11 +54,4 @@ Check out the [contributing](https://github.com/dimaodin/EN-Dictionary/blob/main
 
 <br>
 
-## :closed_book: License
-
-Released in 2021,
-This project is under the [MIT license](https://github.com/dimaodin/EN-Dictionary/blob/main/LICENSE).
-
-<br>
-
 ##### Made with love by [Dima Odintsov](https://github.com/DimaOdin) 💜🚀
